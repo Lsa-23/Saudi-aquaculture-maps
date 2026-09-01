@@ -1,4 +1,8 @@
-# Saudi Aquaculture Maps
+<p align="center">
+  <img src="./fff.JPG" width="100%">
+</p>
+
+<h1 align="center">Saudi Aquaculture Maps</h1>
 
 An interactive web mapping project developed during my cooperative training at the Ministry of Environment, Water and Agriculture.
 
